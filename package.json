@@ -15,6 +15,7 @@
     "perlin-simplex": "^0.0.2",
     "raf": "^3.3.0",
     "sound-board": "^2.2.3",
+    "three": "^0.84.0",
     "tween.js": "^16.6.0"
   },
   "scripts": {
